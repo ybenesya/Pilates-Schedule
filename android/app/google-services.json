@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718872788186",
+    "project_id": "pilates-schedule",
+    "storage_bucket": "pilates-schedule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718872788186:android:2b2e5a8a497abc51ebf9e3",
+        "android_client_info": {
+          "package_name": "com.pilates.pilates_schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718872788186-j1lt0h3nfjvhnbtve2sb9j6csokr950g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ87ziISEH8az1Qss8rMO27CrfaIQ-1mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718872788186-j1lt0h3nfjvhnbtve2sb9j6csokr950g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
