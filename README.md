@@ -1,6 +1,9 @@
 # pilates_schedule
 A mobile appliation based on Flutter to manage Pilates fitness club.
 
+### Demo
+[Demo Video](https://drive.google.com/file/d/1FSss6iL_FQ1MJ0buUx7ULM7Es-qFfqxq/view?usp=sharing)
+
 ## Background
 Recently I started my Pilates trainings in a local gym. Every week my trainer had to create manully the schedule for the next week and send it via WhatsApp to all her trainees. Then I had to pick a date and ask her to sign me up. I coulnd't know how many places left in that day, and it was tricky if I wanted to sign up with a friend. I decided to design and develop a management application that siplifies this training managemant and also provides transparancy for the trainees.
 
